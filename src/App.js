@@ -8,7 +8,7 @@ function App() {
         <p>Paragrafação inicial</p>
       </header>
       <main>
-        <section className='box-titulo'>
+        <section className='box-title'>
           <h1>Saúde Mental</h1>
           <p>Landing page de Aplicações sobre Saúde Mental</p>
           <a href='reactjs.org' target='_blank'>Inicio</a>

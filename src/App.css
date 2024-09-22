@@ -16,3 +16,24 @@ header p {
   font-weight: bold;
   font-size: 30px;
 }
+
+main {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.box-title {
+  background-color: #282c34;
+  padding-bottom: 50px;
+}
+
+h1 {
+  color: #61dafb;
+}
+
+.box-title p {
+  font-size: 24px;
+  color: #fff;
+}
