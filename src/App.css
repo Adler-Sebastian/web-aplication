@@ -8,7 +8,7 @@
 
 header {
   background-color: #fff1;
-  color: white;
+  color: #fff;
   padding: 0 15px;
 }
 
@@ -36,4 +36,38 @@ h1 {
 .box-title p {
   font-size: 24px;
   color: #fff;
+  margin-bottom: 50px;
+}
+
+.box-title a {
+  text-decoration: none;
+  color: #fff;
+  border: 2px solid #61dafb;
+  padding: 10px 20px;
+}
+
+.box-title a:hover {
+  color: #61dafb;
+  background-color: #fff;
+  transition: .3s all;
+}
+
+.box-req {
+  padding: 30px 10px;
+}
+
+.box-cards {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  margin-top: 80px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #282c34;
+  width: calc((100% / 3) - 10px);
 }
