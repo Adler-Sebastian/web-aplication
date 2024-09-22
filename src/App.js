@@ -7,7 +7,12 @@ function App() {
       <header>
         <p>Paragrafação inicial</p>
       </header>
-      <main></main>
+      <main>
+        <section className='box-titulo'>
+          <h1>Saúde Mental</h1>
+          <p>Landing page de Aplicações sobre Saúde Mental</p>
+        </section>
+      </main>
     </div>
   );
 }
