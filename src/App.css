@@ -7,8 +7,8 @@
 }
 
 header {
-  background-color: #fff1;
-  color: #fff;
+  background-color: #20232a;
+  color: #61dafb;
   padding: 0 15px;
 }
 
@@ -70,4 +70,31 @@ h1 {
   align-items: center;
   background-color: #282c34;
   width: calc((100% / 3) - 10px);
+  max-width: 300px;
+  margin: 5px;
+  padding: 20px 15px;
+  border-radius: 5px;
+  box-shadow: 5px 5px rgb(145, 145, 145);
+  color: fff;
+}
+
+.card:hover {
+  background-color: rgb(200, 111, 119);
+  color: #282c34;
+  transition: all .3s;
+}
+
+.card h3 {
+  margin: 0 0 10px;
+  color: #edc854;
+}
+
+.card p {
+  margin: 0;
+  color: #fff;
+}
+
+footer {
+  background-color: #f2f3f6;
+  text-align: center;
 }
