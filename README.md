@@ -13,4 +13,7 @@ Esse projeto foi estabelecido como uma parte do anterior, a EquilibriumAPI, trab
 - https://github.com/Adler-Sebastian/web-aplication
 # 2 - Executando o servidor:
 - npm run dev e abrirá no localhost de utilização do usuário
+# 2 - Hospedagem em:
+- https://web-aplication-gamma.vercel.app/
 # Projeto no Linkedin:
+- https://www.linkedin.com/posts/adler-sebastian-967a33250_react-app-activity-7244042715158507521-CG26?utm_source=share&utm_medium=member_desktop
